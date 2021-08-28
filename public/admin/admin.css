@@ -1,13 +1,15 @@
 @media (max-width: 799px) {
-  div[class$="SidebarContainer-card"] {
+  div[class$='SidebarContainer-card'] {
     position: static;
     width: 100%;
     margin-bottom: 30px;
   }
-  .css-v758ki-AppMainContainer, .css-12b66la-AppHeaderContent {
+  .css-v758ki-AppMainContainer,
+  .css-12b66la-AppHeaderContent {
     min-width: 0;
   }
-  .css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton, .css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton {
+  .css-104dqk8-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton,
+  .css-12yqrwa-AppHeaderNavLink-AppHeaderButton-button-buttonActive-buttonActive-buttonActive-buttonActive-AppHeaderButton {
     margin: 0;
     padding: 16px 7px;
   }
@@ -63,7 +65,7 @@
     display: inline-block;
     margin-top: 0;
   }
-  .css-stmjdx-CardGridContainer  {
+  .css-stmjdx-CardGridContainer {
     position: static;
     overflow: visible;
     width: 100%;
